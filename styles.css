@@ -1,0 +1,15 @@
+body{
+    background:linear-gradient(to bottom,#01c8a0,#d8dcdc)
+}
+.logo{
+    position:absolute;
+
+    width: 70px;
+    height:70px;
+    margin-right: 10%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
